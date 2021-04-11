@@ -1,0 +1,8 @@
+POST http://localhost:3000/api/notes
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYwNzM1YjAzYjIzYWM4OTBlNzYwYjJkMiIsInVzZXJuYW1lIjoidGFyemFuIiwiaWF0IjoxNjE4MTczMDM4LCJleHAiOjE2MTg3Nzc4Mzh9.k6CyNduOOrsBHXrhJokqAVBcCyEKoO2aUgRL6N8oZXU
+
+{
+"content": "NodeJS e Genial22",
+"important": true
+}
